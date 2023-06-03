@@ -9,7 +9,7 @@ To run the project:
 1-) Type the **"npm install"** command into the terminal.
 2-) Type **"npm start"** to run it too
 
-In your package.json: change this lane
+If you can't run. In your package.json: change this lane
 
 ```javascript
 "start": "react-scripts start"
